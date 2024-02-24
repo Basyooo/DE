@@ -1,0 +1,17 @@
+*{background-color: black;}
+#pic{height: 300; width: 600;border: 3px solid white}
+#txt1{color:white;
+    font-weight: 400;
+    font-style: normal;}
+#txt2{color: white; }
+#box{
+    text-align: center;
+    height: 300; width: 600;
+    margin-left: 25%;
+    margin-top: 50px;
+    font-family:"Libre Baskerville", serif;
+
+}
+
+
+
