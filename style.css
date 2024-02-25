@@ -1,16 +1,15 @@
 *{background-color: black;}
-#pic{height: 300; width: 600;border: 3px solid white}
+#pic{border: 3px solid white; width: 100%;}
 
 #box{
     text-align: center;
     color: white;
     font-weight: 400;
     font-style: normal;
+    width: 50%;
     margin-left: 25%;
-    width:607;
-    margin-top: 50px;
+    margin-top: 75px;
     font-family:"Libre Baskerville", serif;
-
     }
 
 
